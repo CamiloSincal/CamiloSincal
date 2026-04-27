@@ -12,8 +12,12 @@
 - [The Future of the Work:  Smart and Cost-Effective (2025)](https://revistaecys.github.io/26edicion/T5_pareja57.html)
 - [Beyond books: AI, the new learning companion (2025)](https://revistaecys.github.io/27Edicion/T1_pareja41.html)
 
-# GitHub Stats:
+<div align="center">
+
+# GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=CamiloSincal&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=CamiloSincal&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=CamiloSincal&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
