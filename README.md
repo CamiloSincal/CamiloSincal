@@ -2,6 +2,7 @@
 💻 A Computer Science and Information Systems Engineer from Guatemala </br>
 ⚗️ Interested in learning and specializing in data science </br>
 🎮 Passionate about learning about video game development </br>
+📚 I have a deep interest in teaching and sharing knowledge </br>
 📖 Love learning about new things (even outside the tech world!) </br>
 
 ## Tech Stack:
